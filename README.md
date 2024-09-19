@@ -4,7 +4,7 @@
 
 ## Features
 
-use `zim_template` or `zzz` to Add start template from https://zimjs.com/code.html
+use `zim_template` or `zzz` to add start template from https://zimjs.com/code.html
 
 ## Requirements
 
