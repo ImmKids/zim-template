@@ -1,6 +1,7 @@
 {
     // zim template : from https://zimjs.com/code.html
 	"zim template": {
+        "scope": "html",
 		"prefix": "zim_template, zzz",
 		"body": [
 			"<!DOCTYPE html>",
