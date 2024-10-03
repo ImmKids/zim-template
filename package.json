@@ -2,7 +2,7 @@
   "name": "zim-template",
   "displayName": "zim template",
   "description": "zim template code",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.75.1"
   },

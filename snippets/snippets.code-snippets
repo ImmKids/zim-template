@@ -39,10 +39,10 @@
 
 	"arrow function": {
 		"scope": "html,javascript,typescript",
-		"prefix": "af",
+		"prefix": "arrow_function, aaa",
 		"body": [
 			"()=>{",
-			"",
+			"  $0",
 			"}"
 		],
 		"description": "arrow function"

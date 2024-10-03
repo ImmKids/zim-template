@@ -12,10 +12,13 @@ VS Code
 
 ## Release Notes
 
-### 0.0.3
+### 0.0.5
 
 Initial ZIM template
 
 Add Arrow Function
 
+Change Arrow Function Shotcut
+
+Fix cursor position
 ---
