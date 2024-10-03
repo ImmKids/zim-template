@@ -13,7 +13,7 @@
 			"<!-- zimjs.com - JavaScript Canvas Framework -->",
 			"<script type=\"module\">",
 			"",
-				"import zim from \"https://zimjs.org/cdn/016/zim\";",
+				"import zim from \"https://zimjs.org/cdn/017/zim\";",
 				"",
 				"// See Docs under Frame for FIT, FILL, FULL, and TAG",
 				"new Frame(FIT, 1024, 768, light, dark, ready);",
