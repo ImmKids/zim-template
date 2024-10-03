@@ -35,5 +35,16 @@
 			"</html>"
 		],
 		"description": "zim template"
+	},
+
+	"arrow function": {
+		"scope": "html,javascript,typescript",
+		"prefix": "af",
+		"body": [
+			"()=>{",
+			"",
+			"}"
+		],
+		"description": "arrow function"
 	}
 }
